@@ -118,11 +118,13 @@ JWT_SECRET=your_secret_key
 
 ## Future Improvements
 
-* Group chat functionality
-* File sharing
-* Typing indicators
-* Message read receipts
-* Push notifications
+The following features are planned to enhance the functionality and user experience of the application:
+
+- Group chat support
+- File and image sharing
+- Typing indicators for active conversations
+- Message delivery and read receipts
+- Push notifications for new messages
 
 ---
 
