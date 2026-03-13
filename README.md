@@ -82,7 +82,7 @@ realtime-chat-app
 ### Clone the repository
 
 ```
-https://github.com/vishalraghuvanshi999/realtime-chat-app.git
+git clone https://github.com/vishalraghuvanshi999/realtime-chat-app.git
 cd realtime-chat-app
 ```
 
